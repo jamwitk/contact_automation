@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8F219E9A-14A0-49F2-A58F-C103FBF02525}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Telefon_Rahberi</RootNamespace>
+    <AssemblyName>Telefon_Rahberi</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuncellemePenceresi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuncellemePenceresi.Designer.cs">
+      <DependentUpon>GuncellemePenceresi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Guncelle_Formu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guncelle_Formu.Designer.cs">
+      <DependentUpon>Guncelle_Formu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kayit_Ekrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kayit_Ekrani.Designer.cs">
+      <DependentUpon>Kayit_Ekrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENY.Designer.cs">
+      <DependentUpon>MENY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rehber_Ekrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rehber_Ekrani.Designer.cs">
+      <DependentUpon>Rehber_Ekrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stajyer_EgitimDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Stajyer_EgitimDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Stajyer_EgitimDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Stajyer_EgitimDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Stajyer_EgitimDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Stajyer_EgitimDataSet2.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuncellemePenceresi.resx">
+      <DependentUpon>GuncellemePenceresi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guncelle_Formu.resx">
+      <DependentUpon>Guncelle_Formu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kayit_Ekrani.resx">
+      <DependentUpon>Kayit_Ekrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENY.resx">
+      <DependentUpon>MENY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Rehber_Ekrani.resx">
+      <DependentUpon>Rehber_Ekrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Stajyer_EgitimDataSet.xsc">
+      <DependentUpon>Stajyer_EgitimDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Stajyer_EgitimDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Stajyer_EgitimDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Stajyer_EgitimDataSet.xss">
+      <DependentUpon>Stajyer_EgitimDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Stajyer_EgitimDataSet1.xsc">
+      <DependentUpon>Stajyer_EgitimDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Stajyer_EgitimDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Stajyer_EgitimDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Stajyer_EgitimDataSet1.xss">
+      <DependentUpon>Stajyer_EgitimDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Stajyer_EgitimDataSet2.xsc">
+      <DependentUpon>Stajyer_EgitimDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Stajyer_EgitimDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Stajyer_EgitimDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Stajyer_EgitimDataSet2.xss">
+      <DependentUpon>Stajyer_EgitimDataSet2.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

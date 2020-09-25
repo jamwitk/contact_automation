@@ -1,0 +1,49 @@
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\bin\Debug\Telefon_Rahberi.exe.config
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\bin\Debug\Telefon_Rahberi.exe
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\bin\Debug\Telefon_Rahberi.pdb
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.csprojAssemblyReference.cache
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Form1.resources
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Properties.Resources.resources
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.csproj.GenerateResource.cache
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.csproj.CoreCompileInputs.cache
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.exe
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.pdb
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Rehber_Ekrani.resources
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Kayit_Ekrani.resources
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Guncelle_Formu.resources
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.GuncellemePenceresi.resources
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.csproj.CopyComplete
+C:\Users\jabdukarimov\source\repos\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.MENY.resources
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\bin\Debug\Telefon_Rahberi.exe.config
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\bin\Debug\Telefon_Rahberi.exe
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.csprojResolveAssemblyReference.cache
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Form1.resources
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.GuncellemePenceresi.resources
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Guncelle_Formu.resources
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Kayit_Ekrani.resources
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.MENY.resources
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Properties.Resources.resources
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Rehber_Ekrani.resources
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.csproj.GenerateResource.cache
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.csproj.CoreCompileInputs.cache
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.csproj.CopyComplete
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.exe
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.pdb
+C:\Users\yy\Desktop\My Profiles\projeler\Telefon_RahberiSolution\Telefon_Rahberi\bin\Debug\Telefon_Rahberi.pdb
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\bin\Debug\Telefon_Rahberi.exe.config
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\bin\Debug\Telefon_Rahberi.exe
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\bin\Debug\Telefon_Rahberi.pdb
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.csprojAssemblyReference.cache
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Form1.resources
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.GuncellemePenceresi.resources
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Guncelle_Formu.resources
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Kayit_Ekrani.resources
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.MENY.resources
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Properties.Resources.resources
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.Rehber_Ekrani.resources
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.csproj.GenerateResource.cache
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.csproj.CoreCompileInputs.cache
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.csproj.CopyComplete
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.exe
+D:\Jamshid\Projects c#\projeler\Telefon_RahberiSolution\Telefon_Rahberi\obj\Debug\Telefon_Rahberi.pdb
